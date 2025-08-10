@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.parser": "babel"
+}
