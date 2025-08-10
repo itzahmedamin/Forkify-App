@@ -1,5 +1,5 @@
 // https://forkify-api.jonas.io
-import '../sass/main.scss';
+
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 import * as model from './model.js';
