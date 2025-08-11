@@ -10,7 +10,7 @@
   "scripts": {
     "start": "parcel index.html",
     "dev": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist"
+    "build": "parcel build index.html --dist-dir ./dist --no-optimize"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.15.4",
