@@ -5,7 +5,6 @@
   "license": "ISC",
   "author": "amin",
   "type": "module",
-  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "dev": "parcel index.html",
